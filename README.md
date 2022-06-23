@@ -22,20 +22,20 @@ OBS: Campos de email e senha meramente ilustrativos.
 * Clonar o repositório:
   * https://github.com/deeeia/Chat_Trabalho_Final.git
   * gh repo clone deeeia/Chat_Trabalho_Final
-* Instalar as dependências do front-end e iniciar a aplicação:
+* Instalar as dependências do front-end e iniciar a aplicação, no terminal digitar os comandos:
   * cd react-fb_login
-    * npm install --legacy-peer-deps (A biblioteca react-facebook-login gera um erro sem o --legacy-peer-deps)
-    * npm start
+  * npm install --legacy-peer-deps (A biblioteca react-facebook-login gera um erro sem o --legacy-peer-deps)
+  * npm start
     * Aplicação vai executar na seguinte URL: https://localhost:3001/
-* Instalar as dependências do back-end e iniciar o server:
+* Instalar as dependências do back-end e iniciar o server, no terminal digitar os comandos:
   * cd server 
-    * npm install
-    * npm start
+  * npm install
+  * npm start
 ### Docker Container
 Outra opção para iniciar o chat e o servidor é com a utilização do Docker Container:
-* Baixar e instalar o Docker Container
+* Baixar e instalar o Docker Container, no terminal digitar os seguintes comandos:
   * cd react-fb_login
-  * Digitar no terminal: docker compose up build
+  * docker compose up build
 * OBS: O Docker executa a aplicação em HTTP, e o Facebook aceita somente HTTPS então no momento do login dará um erro de HTTPS. 
 ### Banco de Dados
 Aplicativo não está conectado com um banco de dados, o time não conseguiu implementar essa funcionalidade ao chat.
