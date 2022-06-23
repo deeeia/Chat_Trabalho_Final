@@ -42,4 +42,4 @@ Aplicativo não está conectado com um banco de dados, o time não conseguiu imp
 ### Heroku
 Tentativa de publicar o aplicativo no Heroku:
 * https://construappchat.herokuapp.com/
-OBS: Não funcionou
+* OBS: Não funcionou
