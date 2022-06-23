@@ -41,4 +41,4 @@ Outra opção para iniciar o chat e o servidor é com a utilização do Docker C
 Aplicativo não está conectado com um banco de dados, o time não conseguiu implementar essa funcionalidade ao chat.
 ### Heroku
 Tentativa de publicar o aplicativo no Heroku:
-* https://git.heroku.com/construappchat.git
+* https://construappchat.herokuapp.com/
