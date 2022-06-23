@@ -39,3 +39,6 @@ Outra opção para iniciar o chat e o servidor é com a utilização do Docker C
 * OBS: O Docker executa a aplicação em HTTP, e o Facebook aceita somente HTTPS então no momento do login dará um erro de HTTPS. 
 ### Banco de Dados
 Aplicativo não está conectado com um banco de dados, o time não conseguiu implementar essa funcionalidade ao chat.
+### Heroku
+Tentativa de publicar o aplicativo no Heroku:
+* https://git.heroku.com/construappchat.git
