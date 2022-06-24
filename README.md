@@ -1,5 +1,10 @@
 # Trabalho Final - Chat
 Trabalho final da matéria de Arquitetura de Aplicações Web.
+### Equipe
+- Andréia Carvalho
+- Bruno Henrique
+- Lariane Guerra
+- Marcella Cristina
 
 ## CHAT
 * Autenticação OAuth2.0 pelo Facebook;
